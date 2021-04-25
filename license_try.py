@@ -71,11 +71,11 @@ def runExam(afile):
 
                   if isinstance(TESTSTRUCT[ikey][jkey][kkey], Question):
 
-                      S = input(TESTSTRUCT[ikey][jkey][kkey].\
+                      S = input('\n' + TESTSTRUCT[ikey][jkey][kkey].\
                                 this_question +\
                                     '\nType your choice here: ')
                           
-                      S.upper()  
+                      S = S.upper()  
                       S = S[:1]
                       
                       TESTSTRUCT[ikey][jkey][kkey].setQuestionResponse(S)
@@ -103,26 +103,25 @@ def showResults(exam):
             for kkey in TESTSTRUCT[ikey][jkey].keys():
 
                 if isinstance(TESTSTRUCT[ikey][jkey][kkey],Question):
-                    #print(TESTSTRUCT[ikey][jkey][kkey])
+
                     print(TESTSTRUCT[ikey][jkey][kkey].this_question)
                     
                     if TESTSTRUCT[ikey][jkey][kkey].questionResponse[0] == 'R':
                         numRight += 1
-                        print("Question answer {} is correct".\
+                        print("Question answer {} is correct\n".\
                               format(TESTSTRUCT[ikey][jkey][kkey].\
                                      questionResponse[1]))
-                        print('\n')
+
                     else:
                         numWrong += 1
-                        print("Question answer {} is incorrect".\
+                        print("Question answer {} is incorrect\n".\
                               format(TESTSTRUCT[ikey][jkey][kkey].\
                                      questionResponse[1]))
-                        print('\n')
                             
                     break
                 
-    print('You scored {} right, and {} wrong for overall {:.2%} score.'.\
-          format(str(numRight), str(numWrong),\
+    print('You scored {0:.0f} right, and {1:.0f} wrong for overall {2:.2%} score.'.\
+          format(numRight, numWrong,\
                  numRight/(numRight+numWrong)))
 
 
