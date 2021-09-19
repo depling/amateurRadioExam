@@ -11,15 +11,18 @@ The official public files represented with the pre-processed files included are:
 
 **2019-2023 General Class FCC Element 3 Syllabus - Effective July 1, 2019**
 
+Those are available online, and not included herein.
+
+The preprocessed data files are included in versions for Unix and Win32, UTF-8, for the users convenience.  Preprocessing entailed removing the 'errata' section at the beginning, replacing a few non-printing text characters, and removing some extraneous empty lines at the EOF.  
 To run the trial exam, open a terminal in this project directory.  Assuming there is a functional Python interpreter on the machine, the usage on the command line is:  
-`$>python license_try.py <file>`   
-where file is either the Tech level text or the Basic level text.
+`$>python license_try.py <file>` where file is either the Tech level text or the Basic level text.
+
+NOTE:  The file parameter must specify whether you want the Unix version or the Win32 version as specified in the file name.
 
 # todo
 
-  * script runs as is on Linux, but will require some tweeks for other platforms;
-  * the two data files are also formatted for Unix line endings and UTF-8;
   * GUI would be nice;
+  * expand feedback on right/wrong answers to include reference when available;
   * configuration options such as file records of test attempts, etc.;
   * control options such as multiple runs without repeated questions;
 

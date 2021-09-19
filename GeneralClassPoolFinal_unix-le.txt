@@ -1,7 +1,6 @@
+SUBELEMENT G1 - COMMISSION'S RULES [5 Exam Questions - 5 Groups]
 
-SUBELEMENT G1 - COMMISSIONS RULES [5 Exam Questions - 5 Groups]
-
-G1A  General class control operator frequency privileges; primary and secondary allocations
+G1A - General class control operator frequency privileges; primary and secondary allocations
 
 
 G1A01 (C) [97.301(d)]
@@ -31,7 +30,7 @@ D. 12 meters
 ~~
 
 
-G1A04 (D) [97.303 (h)]
+G1A04 (D) [97.303(h)]
 Which of the following amateur bands is restricted to communication only on specific channels, rather than frequency ranges?
 A. 11 meters
 B. 12 meters
@@ -115,7 +114,7 @@ D. Amateur stations may only operate during specific hours of the day, while pri
 G1A13 (D) [97.303(5)(h)(2)(j)]
 What is the appropriate action if, when operating on either the 30-meter or 60-meter bands, a station in the primary service interferes with your contact?
 A. Notify the FCCs regional Engineer in Charge of the interference
-B. Increase your transmitters power to overcome the interference
+B. Increase your transmitter's power to overcome the interference
 C. Attempt to contact the station and request that it stop the interference
 D. Move to a clear frequency or stop transmitting
 ~~
@@ -188,7 +187,7 @@ D. All these choices are correct
 
 G1B06 (D) [97.15(b), PRB-1, 101 FCC 2d 952 (1985)]
 Under what conditions are state and local governments permitted to regulate Amateur Radio antenna structures?
-A. Under no circumstances, FCC rules takes priority
+A. Under no circumstances, FCC rules take priority
 B. At any time and to any extent necessary to accomplish a legitimate purpose of the state or local entity, provided that proper filings are made with the FCC
 C. Only when such structures exceed 50 feet in height and are clearly visible 1000 feet from the structure
 D. Amateur Service communications must be reasonably accommodated, and regulations must constitute the minimum practical to accommodate a legitimate purpose of the state or local entity
@@ -197,10 +196,10 @@ D. Amateur Service communications must be reasonably accommodated, and regulatio
 
 G1B07 (B) [97.113(a)(4)]  
 What are the restrictions on the use of abbreviations or procedural signals in the Amateur Service?
-A. Only Q signals are permitted
+A. Only "Q" signals are permitted
 B. They may be used if they do not obscure the meaning of a message
 C. They are not permitted
-D. Only 10 codes are permitted
+D. Only "10 codes" are permitted
 ~~
 
 
@@ -232,7 +231,7 @@ D. 200 watts PEP output
 
 
 G1B11 (A) [97.101(a)]
-Who or what determines good engineering and good amateur practice, as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?
+Who or what determines "good engineering and good amateur practice," as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?
 A. The FCC
 B. The control operator
 C. The IEEE
@@ -455,7 +454,7 @@ G1D08 (B) [97.509(b)(3)]
 Which of the following criteria must be met for a non-U.S. citizen to be an accredited Volunteer Examiner?
 A. The person must be a resident of the U.S. for a minimum of 5 years
 B. The person must hold an FCC granted Amateur Radio license of General class or above
-C. The persons home citizenship must be in ITU region 2
+C. The person's home citizenship must be in ITU region 2
 D. None of these choices is correct; a non-U.S. citizen cannot be a Volunteer Examiner
 ~~
 
@@ -479,7 +478,7 @@ D. There is no age limit
 
 
 G1D11 (D) [97.505]
-If a person has an expired FCC issued Amateur Radio license of General class or higher, what is required before they can receive a new license?
+What is required to obtain a new General Class license after a previously-held license has expired and the two-year grace period has passed?
 A. They must have a letter from the FCC showing they once held an amateur or commercial license
 B. There are no requirements other than being able to show a copy of the expired license
 C. The applicant must be able to produce a copy of a page from a call book published in the U.S. showing his or her name and address
@@ -491,7 +490,7 @@ G1E - Control categories; repeater regulations; third-party rules; ITU regions; 
 
 G1E01 (A) [97.115(b)(2)] 
 Which of the following would disqualify a third party from participating in stating a message over an amateur station?
-A. The third partys amateur license has been revoked and not reinstated
+A. The third party's amateur license has been revoked and not reinstated
 B. The third party is not a U.S. citizen
 C. The third party is a licensed amateur
 D. The third party is speaking in a language other than English
@@ -511,7 +510,7 @@ G1E03 (A) [97.221]
 What is required to conduct communications with a digital station operating under automatic control outside the automatic control band segments?
 A. The station initiating the contact must be under local or remote control
 B. The interrogating transmission must be made by another automatically controlled station
-C. No third-party traffic maybe be transmitted
+C. No third-party traffic may be transmitted
 D. The control operator of the interrogating station must hold an Amateur Extra Class license 
 ~~
 
@@ -525,7 +524,7 @@ D. All these choices are correct
 ~~
 
 
-G1E05 (C) [97.115(a)(2),97.117]
+G1E05 (C) [97.115(a)(2), 97.117]
 What types of messages for a third party in another country may be transmitted by an amateur station?
 A. Any message, as long as the amateur operator is not paid
 B. Only messages for other licensed amateurs
@@ -553,7 +552,7 @@ D. No part
 
 
 G1E08 (B) [97.313(j)]
-When using modified commercial Wi-Fi equipment to construct an Amateur Radio Emergency Data Network (AREDN), what is the maximum allowed PEP transmitter output power?
+What is the maximum PEP output allowed for spread spectrum transmissions?
 A. 100 milliwatts
 B. 10 watts
 C. 100 watts
@@ -579,18 +578,18 @@ D. These frequencies are set aside for bulletins from the FCC
 ~~
 
 
-G1E11 (B) [97.221]
-What is the Part 97 limit on the maximum bandwidth occupied by an automatically controlled digital station?
-A. 100 Hz
-B. 500 Hz
-C. 1 kHz
-D. 2 kHz
+G1E11 (D) [97.221, 97.305]
+On what bands may automatically controlled stations transmitting RTTY or data emissions communicate with other automatically controlled digital station?
+A. On any band segment where digital operation is permitted
+B. Anywhere in the non-phone segments of the 10-meter or shorter wavelength bands
+C. Only in the non-phone Extra Class segments of the bands
+D. Anywhere in the 6-meter or shorter wavelength bands, and in limited segments of some of the HF bands
 ~~
 
 
 SUBELEMENT G2 - OPERATING PROCEDURES [5 Exam Questions - 5 Groups]
 
-G2A  Phone operating procedures; USB/LSB conventions; breaking into a contact; VOX operation
+G2A - Phone operating procedures; USB/LSB conventions; breaking into a contact; VOX operation
 
 
 G2A01 (A)
@@ -658,10 +657,10 @@ D. SSB is the only voice mode that is authorized on the 160-meter, 75-meter, and
 
 G2A08 (B)
 What is the recommended way to break in to a phone contact?
-A. Say QRZ several times, followed by your call sign
+A. Say "QRZ" several times, followed by your call sign
 B. Say your call sign once
-C. Say Breaker Breaker
-D. Say CQ followed by the call sign of either station
+C. Say "Breaker Breaker"
+D. Say "CQ" followed by the call sign of either station
 ~~
 
 
@@ -677,14 +676,14 @@ D. It is good amateur practice
 G2A10 (B)
 Which of the following statements is true of voice VOX operation versus PTT operation?
 A. The received signal is more natural sounding
-B. It allows hands free operation
+B. It allows "hands free" operation
 C. It occupies less bandwidth
 D. It provides more power output
 ~~
 
 
 G2A11 (C)
-Generally, who should respond to a station in the contiguous 48 states who calls CQ DX?
+Generally, who should respond to a station in the contiguous 48 states who calls "CQ DX"?
 A. Any caller is welcome to respond
 B. Only stations in Germany
 C. Any stations outside the lower 48 states
@@ -701,13 +700,13 @@ D. Attenuator level
 ~~
 
 
-G2B -Operating courtesy; band plans; emergencies, including drills and emergency communications
+G2B - Operating courtesy; band plans; emergencies, including drills and emergency communications
 
-G2B01 (C)
-Which of the following is true concerning access to frequencies in non-emergency situations?
+G2B01 (C) [97.101(b), (c)]
+Which of the following is true concerning access to frequencies?
 A. Nets always have priority
 B. QSOs in progress always have priority
-C. Except during FCC-declared emergencies, no one has priority access to frequencies
+C. Except during emergencies, no amateur station has priority access to any frequency
 D. Contest operations must always yield to non-contest use of frequencies
 ~~
 
@@ -750,10 +749,10 @@ D. Approximately 6 kHz
 
 G2B06 (A)
 What is a practical way to avoid harmful interference on an apparently clear frequency before calling CQ on CW or phone?
-A. Send QRL? on CW, followed by your call sign; or, if using phone, ask if the frequency is in use, followed by your call sign
+A. Send "QRL?" on CW, followed by your call sign; or, if using phone, ask if the frequency is in use, followed by your call sign
 B. Listen for 2 minutes before calling CQ
-C. Send the letter V in Morse code several times and listen for a response, or say test several times and listen for a response
-D. Send QSY on CW or if using phone, announce the frequency is in use, then give your call sign and listen for a response
+C. Send the letter "V" in Morse code several times and listen for a response, or say "test" several times and listen for a response
+D. Send "QSY" on CW or if using phone, announce "the frequency is in use," then give your call sign and listen for a response
 ~~
 
 
@@ -767,7 +766,7 @@ D. All these choices are correct
 
 
 G2B08 (A)
-What is the voluntary band plan restriction for U.S. station transmitting within the 48 contiguous states in the 50.1 to 50.125 MHz band segment?
+What is the voluntary band plan restriction for U.S. stations transmitting within the 48 contiguous states in the 50.1 to 50.125 MHz band segment?
 A. Only contacts with stations not within the 48 contiguous states
 B. Only contacts with other stations within the 48 contiguous states
 C. Only digital contacts
@@ -806,7 +805,7 @@ G2C - CW operating procedures and procedural signals; Q signals and common abbre
 
 G2C01 (D)
 Which of the following describes full break-in telegraphy (QSK)?
-A. Breaking stations send the Morse code prosign BK
+A. Breaking stations send the Morse code prosign "BK"
 B. Automatic keyers, instead of hand keys, are used to send Morse code
 C. An operator must activate a manual send/receive switch before and after every transmission
 D. Transmitting stations can receive between code characters and elements
@@ -814,7 +813,7 @@ D. Transmitting stations can receive between code characters and elements
 
 
 G2C02 (A)
-What should you do if a CW station sends QRS?
+What should you do if a CW station sends "QRS?"
 A. Send slower
 B. Change frequency
 C. Increase your power
@@ -823,7 +822,7 @@ D. Repeat everything twice
 
 
 G2C03 (C)
-What does it mean when a CW operator sends KN at the end of a transmission?
+What does it mean when a CW operator sends "KN" at the end of a transmission?
 A. Listening for novice stations
 B. Operating full break-in
 C. Listening only for a specific station or stations
@@ -832,11 +831,11 @@ D. Closing station now
 
 
 G2C04 (D)
-What does the Q signal QRL? mean?
-A. Will you keep the frequency clear?
-B. Are you operating full break-in or Can you operate full break-in?
-C. Are you listening only for a specific station?
-D. Are you busy? or Is this frequency in use?
+What does the Q signal "QRL?" mean?
+A. "Will you keep the frequency clear?"
+B. "Are you operating full break-in?" or "Can you operate full break-in?"
+C. "Are you listening only for a specific station?"
+D. "Are you busy?" or "Is this frequency in use?"
 ~~
 
 
@@ -850,7 +849,7 @@ D. At the standard calling speed of 5 wpm
 
 
 G2C06 (D)
-What does the term zero beat mean in CW operation?
+What does the term "zero beat" mean in CW operation?
 A. Matching the speed of the transmitting station
 B. Operating split to avoid interference on frequency
 C. Sending without error
@@ -859,7 +858,7 @@ D. Matching the transmit frequency to the frequency of a received signal
 
 
 G2C07 (A)
-When sending CW, what does a C mean when added to the RST report?
+When sending CW, what does a "C" mean when added to the RST report?
 A. Chirpy or unstable signal
 B. Report was read from an S meter rather than estimated
 C. 100 percent copy
@@ -877,7 +876,7 @@ D. KN
 
 
 G2C09 (C)
-What does the Q signal QSL mean?
+What does the Q signal "QSL" mean?
 A. Send slower
 B. We have already confirmed by card
 C. I acknowledge receipt
@@ -886,7 +885,7 @@ D. We have worked before
 
 
 G2C10 (D)
-What does the Q signal QRN mean?
+What does the Q signal "QRN" mean?
 A. Send more slowly
 B. Stop sending
 C. Zero beat my signal
@@ -895,7 +894,7 @@ D. I am troubled by static
 
 
 G2C11 (D)
-What does the Q signal QRV mean?
+What does the Q signal "QRV" mean?
 A. You are sending too fast
 B. There is interference on the frequency
 C. I am quitting for the day
@@ -903,7 +902,7 @@ D. I am ready to receive messages
 ~~
 
 
-G2D -Volunteer Monitoring Program; HF operations
+G2D - Volunteer Monitoring Program; HF operations
 
 G2D01 (A)
 What is the Volunteer Monitoring Program?
@@ -943,18 +942,18 @@ D. A map that shows the number of degrees longitude that an amateur satellite ap
 
 G2D05 (C)
 Which of the following is a good way to indicate on a clear frequency in the HF phone bands that you are looking for a contact with any station?
-A. Sign your call sign once, followed by the words listening for a call -- if no answer, change frequency and repeat
-B. Say QTC followed by this is and your call sign -- if no answer, change frequency and repeat
-C. Repeat CQ a few times, followed by this is, then your call sign a few times, then pause to listen, repeat as necessary
-D. Transmit an unmodulated carried for approximately 10 seconds, followed by this is and your call sign, and pause to listen -- repeat as necessary
+A. Sign your call sign once, followed by the words "listening for a call" - if no answer, change frequency and repeat
+B. Say "QTC" followed by "this is" and your call sign - if no answer, change frequency and repeat
+C. Repeat "CQ" a few times, followed by "this is," then your call sign a few times, then pause to listen, repeat as necessary
+D. Transmit an unmodulated carried for approximately 10 seconds, followed by "this is" and your call sign, and pause to listen - repeat as necessary
 ~~
 
 
 G2D06 (C)
-How is a directional antenna pointed when making a long-path contact with another station?
+How is a directional antenna pointed when making a "long-path" contact with another station?
 A. Toward the rising sun
 B. Along the grayline
-C. 180 degrees from the stations short-path heading
+C. 180 degrees from the station's short-path heading
 D. Toward the north
 ~~
 
@@ -1000,7 +999,7 @@ Which of the following is typical of the lower HF frequencies during the summer?
 A. Poor propagation at any time of day
 B. World-wide propagation during the daylight hours
 C. Heavy distortion on signals due to photon absorption
-D. High levels of atmospheric noise or static
+D. High levels of atmospheric noise or "static"
 ~~
 
 
@@ -1020,7 +1019,7 @@ How can a PACTOR modem or controller be used to determine if the channel is in u
 A. Unplug the data connector temporarily and see if the channel-busy indication is turned off
 B. Put the modem or controller in a mode which allows monitoring communications without a connection
 C. Transmit UI packets several times and wait to see if there is a response from another PACTOR station
-D. Send the message, Is this frequency in use?
+D. Send the message, "Is this frequency in use?"
 ~~
 
 
@@ -1092,7 +1091,7 @@ Which of the following is a way to establish contact with a digital messaging sy
 A. Send an email to the system control operator
 B. Send QRL in Morse code
 C. Respond when the station broadcasts its SSID
-D. Transmit a connect message on the stations published frequency
+D. Transmit a connect message on the station's published frequency
 ~~
 
 
@@ -1146,7 +1145,7 @@ SUBELEMENT G3 - RADIO WAVE PROPAGATION [3 Exam Questions - 3 Groups]
 G3A - Sunspots and solar radiation; ionospheric disturbances; propagation forecasting and indices
 
 G3A01 (A)
-What is the significance of the sunspot number about HF propagation?
+What is the significance of the sunspot number with regard to HF propagation?
 A. Higher sunspot numbers generally indicate a greater probability of good propagation at higher frequencies
 B. Lower sunspot numbers generally indicate greater probability of sporadic E propagation
 C. A zero sunspot number indicates that radio propagation is not possible on any band
@@ -1195,7 +1194,7 @@ What is a geomagnetic storm?
 A. A sudden drop in the solar flux index
 B. A thunderstorm that affects radio propagation
 C. Ripples in the ionosphere
-D. A temporary disturbance in Earths magnetosphere
+D. A temporary disturbance in Earth's magnetosphere
 ~~
 
 
@@ -1229,8 +1228,8 @@ D. Reduced long delayed echoes
 G3A10 (C)
 What causes HF propagation conditions to vary periodically in a roughly 28-day cycle?
 A. Long term oscillations in the upper atmosphere
-B. Cyclic variation in Earths radiation belts
-C. The suns rotation on its axis
+B. Cyclic variation in Earth's radiation belts
+C. The sun's rotation on its axis
 D. The position of the moon in its orbit
 ~~
 
@@ -1247,8 +1246,8 @@ D. 20 to 40 hours
 G3A12 (B)
 What does the K-index indicate?
 A. The relative position of sunspots on the surface of the sun
-B. The short-term stability of Earths magnetic field
-C. The stability of the suns magnetic field
+B. The short-term stability of Earth's magnetic field
+C. The stability of the sun's magnetic field
 D. The solar radio flux at Boulder, Colorado
 ~~
 
@@ -1256,8 +1255,8 @@ D. The solar radio flux at Boulder, Colorado
 G3A13 (C)
 What does the A-index indicate?
 A. The relative position of sunspots on the surface of the sun
-B. The amount of polarization of the suns electric field
-C. The long-term stability of Earths geomagnetic field
+B. The amount of polarization of the sun's electric field
+C. The long-term stability of Earth's geomagnetic field
 D. The solar radio flux at Boulder, Colorado
 ~~
 
@@ -1346,7 +1345,7 @@ D. The Maximum Usable Frequency during a 24-hour period
 
 
 G3B09 (C)
-What is the approximate maximum distance along the Earths surface that is normally covered in one hop using the F2 region?
+What is the approximate maximum distance along the Earth's surface that is normally covered in one hop using the F2 region?
 A. 180 miles
 B. 1,200 miles
 C. 2,500 miles
@@ -1355,7 +1354,7 @@ D. 12,000 miles
 
 
 G3B10 (B)
-What is the approximate maximum distance along the Earths surface that is normally covered in one hop using the E region?
+What is the approximate maximum distance along the Earth's surface that is normally covered in one hop using the E region?
 A. 180 miles
 B. 1,200 miles
 C. 2,500 miles
@@ -1402,7 +1401,7 @@ D. Because of meteor trails at that level
 
 
 G3C04 (D)
-What does the term critical angle mean, as used in radio wave propagation?
+What does the term "critical angle" mean, as used in radio wave propagation?
 A. The long path azimuth of a distant station
 B. The short path azimuth of a distant station
 C. The lowest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions
@@ -1442,12 +1441,12 @@ Why are HF scatter signals in the skip zone usually weak?
 A. Only a small part of the signal energy is scattered into the skip zone
 B. Signals are scattered from the magnetosphere, which is not a good reflector
 C. Propagation is through ground waves, which absorb most of the signal energy
-D. Propagations is through ducts in F region, which absorb most of the energy
+D. Propagation is through ducts in the F region, which absorb most of the energy
 ~~
 
 
 G3C09 (B)
-What type of propagation allows signals to be heard in the transmitting stations skip zone?
+What type of propagation allows signals to be heard in the transmitting station's skip zone?
 A. Faraday rotation
 B. Scatter
 C. Chordal hop
@@ -1478,7 +1477,7 @@ SUBELEMENT G4 - AMATEUR RADIO PRACTICES [5 Exam Questions - 5 groups]
 G4A - Station operation and setup
 
 G4A01 (B)
-What is the purpose of the notch filter found on many HF transceivers?
+What is the purpose of the "notch filter" found on many HF transceivers?
 A. To restrict the transmitter voice bandwidth
 B. To reduce interference from carriers in the receiver passband
 C. To eliminate receiver interference from impulse noise sources
@@ -1487,7 +1486,7 @@ D. To enhance the reception of a specific frequency on a crowded band
 
 
 G4A02 (C)
-What is one advantage of selecting the opposite, or reverse, sideband when receiving CW signals on a typical HF transceiver?
+What is one advantage of selecting the opposite, or "reverse," sideband when receiving CW signals on a typical HF transceiver?
 A. Interference from impulse noise will be eliminated
 B. More stations can be accommodated within a given signal passband
 C. It may be possible to reduce or eliminate interference from other signals
@@ -1496,7 +1495,7 @@ D. Accidental out-of-band operation can be prevented
 
 
 G4A03 (C)
-What is normally meant by operating a transceiver in split mode?
+What is normally meant by operating a transceiver in "split" mode?
 A. The radio is operating at half power
 B. The transceiver is operating from an external power source
 C. The transceiver is set to different transmit and receive frequencies
@@ -1579,7 +1578,7 @@ D. To tune in stations that are slightly off frequency without changing your tra
 G4A12 (C) 
 Which of the following is a common use for the dual-VFO feature on a transceiver?
 A. To allow transmitting on two frequencies at once
-B. To permit full duplex operation -- that is, transmitting and receiving at the same time
+B. To permit full duplex operation — that is, transmitting and receiving at the same time
 C. To permit monitoring of two different frequencies
 D. To facilitate computer interface
 ~~
@@ -1595,7 +1594,7 @@ D. To slow down received CW signals for better copy
 
 
 G4A14 (B)
-What is likely to happen if a transceivers ALC system is not set properly when transmitting AFSK signals with the radio using single sideband mode?
+What is likely to happen if a transceiver's ALC system is not set properly when transmitting AFSK signals with the radio using single sideband mode?
 A. ALC will invert the modulation of the AFSK mode
 B. Improper action of ALC distorts the signal and can cause spurious emissions
 C. When using digital modes, too much ALC activity can cause the transmitter to overheat
@@ -1630,7 +1629,7 @@ D. Received frequency may shift several kHz
 ~~
 
 
-G4B -- Test and monitoring equipment; two-tone test
+G4B - Test and monitoring equipment; two-tone test
 
 G4B01 (D)
 What item of test equipment contains horizontal and vertical channel amplifiers?
@@ -1750,7 +1749,7 @@ D. Determining the gain of a directional antenna
 
 
 G4B14 (D)
-What is an instance in which the use of an instrument with analog readout may be preferred over an instrument with a digital readout?
+What is an instance in which the use of an instrument with analog readout may be preferred over an instrument with digital readout?
 A. When testing logic circuits
 B. When high precision is desired
 C. When measuring the frequency of an oscillator
@@ -1781,7 +1780,7 @@ D. Reverse-biased diode
 G4C02 (C)
 Which of the following could be a cause of interference covering a wide range of frequencies?
 A. Not using a balun or line isolator to feed balanced antennas
-B. Lack of rectification of the transmitters signal in power conductors
+B. Lack of rectification of the transmitter's signal in power conductors
 C. Arcing at a poor electrical connection
 D. Using a balun to feed an unbalanced antenna
 ~~
@@ -1852,7 +1851,7 @@ D. Connect all ground conductors to a single point
 
 G4C10 (A)
 What could be a symptom of a ground loop somewhere in your station?
-A. You receive reports of hum on your stations transmitted signal
+A. You receive reports of "hum" on your station's transmitted signal
 B. The SWR reading for one or more antennas is suddenly very high
 C. An item of station equipment starts to draw excessive amounts of current
 D. You receive reports of harmonic interference from your station
@@ -1860,7 +1859,7 @@ D. You receive reports of harmonic interference from your station
 
 
 G4C11 (C)
-What technique helps to minimize RF hot spots in an amateur station?
+What technique helps to minimize RF "hot spots" in an amateur station?
 A. Building all equipment in a metal enclosure
 B. Using surge suppressor power outlets
 C. Bonding all equipment enclosures together
@@ -2001,7 +2000,7 @@ D. To allow remote tuning
 G4E02 (D)
 What is the purpose of a corona ball on an HF mobile antenna?
 A. To narrow the operating bandwidth of the antenna
-B. To increase the Q of the antenna
+B. To increase the "Q" of the antenna
 C. To reduce the chance of damage if the antenna should strike an object
 D. To reduce RF voltage discharge from the tip of the antenna while transmitting
 ~~
@@ -2017,9 +2016,9 @@ D. To the alternator or generator using resistor wire
 
 
 G4E04 (B) 
-Why is it best NOT to draw the DC power for a 100 watt HF transceiver from a vehicles auxiliary power socket?
+Why is it best NOT to draw the DC power for a 100 watt HF transceiver from a vehicle's auxiliary power socket?
 A. The socket is not wired with an RF-shielded power cable
-B. The sockets wiring may be inadequate for the current drawn by the transceiver
+B. The socket's wiring may be inadequate for the current drawn by the transceiver
 C. The DC polarity of the socket is reversed from the polarity of modern HF transceivers
 D. Drawing more than 50 watts from this socket could cause the engine to overheat
 ~~
@@ -2027,7 +2026,7 @@ D. Drawing more than 50 watts from this socket could cause the engine to overhea
 
 G4E05 (C)
 Which of the following most limits an HF mobile installation?
-A. Picket fencing
+A. "Picket fencing"
 B. The wire gauge of the DC power line to the transceiver
 C. Efficiency of the electrically short antenna
 D. FCC rules limiting mobile output power on the 75-meter band
@@ -2073,7 +2072,7 @@ D. 1.38 VDC
 G4E10 (B)
 What is the reason that a series diode is connected between a solar panel and a storage battery that is being charged by the panel?
 A. The diode serves to regulate the charging voltage to prevent overcharge
-B. The diode prevents self-discharge of the battery though the panel during times of low or no illumination
+B. The diode prevents self-discharge of the battery through the panel during times of low or no illumination
 C. The diode limits the current flowing from the panel to a safe value
 D. The diode greatly increases the efficiency during times of high illumination
 ~~
@@ -2534,10 +2533,10 @@ D. 1.0 volts
 
 G6A06 (B)
 Which of the following is a reason not to use wire-wound resistors in an RF circuit?
-A. The resistors tolerance value would not be adequate for such a circuit
-B. The resistors inductance could make circuit performance unpredictable
+A. The resistor's tolerance value would not be adequate for such a circuit
+B. The resistor's inductance could make circuit performance unpredictable
 C. The resistor could overheat
-D. The resistors internal capacitance would detune the circuit
+D. The resistor's internal capacitance would detune the circuit
 ~~
 
 
@@ -2619,7 +2618,7 @@ G6B01 (C)
 What determines the performance of a ferrite core at different frequencies?
 A. Its conductivity
 B. Its thickness
-C. The composition, or mix, of materials used
+C. The composition, or "mix," of materials used
 D. The ratio of outer diameter to inner diameter
 ~~
 
@@ -2698,7 +2697,7 @@ D. It has relatively short lifetime
 
 G6B10 (A)
 How does a ferrite bead or core reduce common-mode RF current on the shield of a coaxial cable?
-A. By creating an impedance in the currents path
+A. By creating an impedance in the current's path
 B. It converts common-mode current to differential mode
 C. By creating an out-of-phase current to cancel the common-mode current
 D. Ferrites expel magnetic fields
@@ -2732,7 +2731,7 @@ D. DB-25
 ~~
 
 
-G7 - PRACTICAL CIRCUITS [3 Exam Questions - 3 Groups]
+SUBELEMENT G7 - PRACTICAL CIRCUITS [3 Exam Questions - 3 Groups]
 
 G7A - Power supplies; schematic symbols
 
@@ -2799,7 +2798,7 @@ D. A steady DC voltage
 ~~
 
 
-G7A08(C)
+G7A08 (C)
 Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?
 A. Faster switching time makes higher output voltage possible
 B. Fewer circuit components are required
@@ -3040,14 +3039,14 @@ D. 45 degrees
 G7C10 (B)
 What is an advantage of using I and Q signals in software-defined radios (SDRs)?
 A. The need for high resolution analog-to-digital converters is eliminated
-B. All types of modulation can be created with appropriate processing.
+B. All types of modulation can be created with appropriate processing
 C. Minimum detectible signal level is reduced
 D. Converting the signal from digital to analog creates mixing products
 ~~
 
 
 G7C11 (A)
-What is meant by the term software-defined radio (SDR)?
+What is meant by the term "software-defined radio" (SDR)?
 A. A radio in which most major signal processing functions are performed by software
 B. A radio that provides computer interface for automatic logging of band and frequency
 C. A radio that uses crystal filters designed using software
@@ -3056,7 +3055,7 @@ D. A computer model that can simulate performance of a radio to aid in the desig
 
 
 G7C12 (C)
-What is the frequency above which a low-pass filters output power is less than half the input power?
+What is the frequency above which a low-pass filter's output power is less than half the input power?
 A. Notch frequency
 B. Neper frequency
 C. Cutoff frequency
@@ -3065,7 +3064,7 @@ D. Rolloff frequency
 
 
 G7C13 (D)
-What term specifies a filters maximum ability to reject signals outside its passband?
+What term specifies a filter's maximum ability to reject signals outside its passband?
 A. Notch depth
 B. Rolloff
 C. Insertion loss
@@ -3083,7 +3082,7 @@ D. Image and harmonic
 
 
 G7C15 (A)
-What term specifies a filters attenuation inside its passband?
+What term specifies a filter's attenuation inside its passband?
 A. Insertion loss
 B. Return loss
 C. Q
@@ -3107,8 +3106,8 @@ G8A - Carriers and modulation: AM; FM; single sideband; modulation envelope; dig
 G8A01 (B)
 How is an FSK signal generated?
 A. By keying an FM transmitter with a sub-audible tone
-B. By changing an oscillators frequency directly with a digital control signal
-C. By using a transceivers computer data interface protocol to change frequencies
+B. By changing an oscillator's frequency directly with a digital control signal
+C. By using a transceiver's computer data interface protocol to change frequencies
 D. By reconfiguring the CW keying input to act as a tone generator
 ~~
 
@@ -3149,11 +3148,11 @@ D. Amplitude modulation
 ~~
 
 
-G8A06 (C)
+G8A06 (D)
 Which of the following is characteristic of QPSK31?
 A. It is sideband sensitive
-B. It has forward error correction
-C. The bandwidth is slightly higher than BPSK31
+B. Its encoding provides error correction
+C. Its bandwidth is approximately the same as BPSK31
 D. All these choices are correct
 ~~
 
@@ -3186,11 +3185,11 @@ D. Direct sequence spread spectrum
 
 
 G8A10 (C)
-What is meant by the term flat-topping, when referring to a single sideband phone transmission?
+What is meant by the term "flat-topping," when referring to a single sideband phone transmission?
 A. Signal distortion caused by insufficient collector current
-B. The transmitters automatic level control (ALC) is properly adjusted
+B. The transmitter's automatic level control (ALC) is properly adjusted
 C. Signal distortion caused by excessive drive
-D. The transmitters carrier is properly suppressed
+D. The transmitter's carrier is properly suppressed
 ~~
 
 
@@ -3280,7 +3279,7 @@ D. 60 kHz
 G8B08 (B)
 Why is it important to know the duty cycle of the mode you are using when transmitting?
 A. To aid in tuning your transmitter
-B. Some modes have high duty cycles that could exceed the transmitters average power rating
+B. Some modes have high duty cycles that could exceed the transmitter's average power rating
 C. To allow time for the other station to break in during a transmission
 D. The attenuator will have to be adjusted accordingly
 ~~
@@ -3305,7 +3304,7 @@ D. Bandwidth is always half the symbol rate
 
 
 G8B11 (C)
-What combination of a mixers Local Oscillator (LO) and RF input frequencies is found in the output?
+What combination of a mixer's Local Oscillator (LO) and RF input frequencies is found in the output?
 A. The ratio
 B. The average
 C. The sum and difference
@@ -3361,7 +3360,7 @@ D. A code using SELCAL and LISTEN
 
 
 G8C05 (A)
-In the PACTOR protocol, what is meant by an NAK response to a transmitted packet?
+In the PACTOR protocol, what is meant by a NAK response to a transmitted packet?
 A. The receiver is requesting the packet be retransmitted
 B. The receiver is reporting the packet was received without error
 C. The receiver is busy decoding the packet
@@ -3390,14 +3389,14 @@ D. It requests a change in transmitting protocol
 G8C08 (B)
 Which of the following statements is true about PSK31?
 A. Upper case letters are sent with more power
-B. Upper case letters use longer Varicode symbols and thus slow down transmission
+B. Upper case letters use longer Varicode bit sequences and thus slow down transmission
 C. Error correction is used to ensure accurate message reception
 D. Higher power is needed as compared to RTTY for similar error rates
 ~~
 
 
 G8C09 (A)
-What does the number 31 represent in PSK31?
+What does the number 31 represent in "PSK31"?
 A. The approximate transmitted symbol rate
 B. The version of the PSK protocol
 C. The year in which PSK31 was invented
@@ -3473,7 +3472,7 @@ D. 500 and 750 ohms
 
 
 G9A03 (D)
-What is the typical characteristic impedance of window line parallel transmission line?
+What is the typical characteristic impedance of "window line" parallel transmission line?
 A. 50 ohms
 B. 75 ohms
 C. 100 ohms
@@ -3659,7 +3658,7 @@ What is the approximate length for a 1/2 wave dipole antenna cut for 14.250 MHz?
 A. 8 feet
 B. 16 feet
 C. 24 feet
-D. 32 feet
+D. 33 feet
 ~~
 
 
@@ -3667,7 +3666,7 @@ G9B11 (C)
 What is the approximate length for a 1/2 wave dipole antenna cut for 3.550 MHz?
 A. 42 feet
 B. 84 feet
-C. 131 feet
+C. 132 feet
 D. 263 feet
 ~~
 
@@ -3738,7 +3737,7 @@ D. The reflector element must be approximately 5 percent longer than the driven 
 
 
 G9C07 (C)
-What does front-to-back ratio mean in reference to a Yagi antenna?
+What does "front-to-back ratio" mean in reference to a Yagi antenna?
 A. The number of directors versus the number of reflectors
 B. The relative position of the driven element with respect to the reflectors and directors
 C. The power radiated in the major radiation lobe compared to that in the opposite direction
@@ -3747,7 +3746,7 @@ D. The ratio of forward gain to dipole gain
 
 
 G9C08 (D)
-What is meant by the main lobe of a directive antenna?
+What is meant by the "main lobe" of a directive antenna?
 A. The magnitude of the maximum vertical angle of radiation
 B. The point of maximum current in a radiating antenna element
 C. The maximum voltage standing wave point on a radiating element
@@ -3848,11 +3847,11 @@ D. Very high
 
 
 G9D03 (C)
-In which direction is the maximum radiation from a portable VHF/UHF halo antenna?
+In which direction is the maximum radiation from a portable VHF/UHF "halo" antenna?
 A. Broadside to the plane of the halo
 B. Opposite the feed point
 C. Omnidirectional in the plane of the halo
-D. Toward the halos supporting mast
+D. Toward the halo's supporting mast
 ~~
 
 
@@ -3893,7 +3892,7 @@ D. SWR varies periodically as a function of boom length
 
 
 G9D08 (B)
-How does a screwdriver mobile antenna adjust its feed-point impedance?
+How does a "screwdriver" mobile antenna adjust its feed-point impedance?
 A. By varying its body capacitance
 B. By varying the base loading inductance
 C. By extending and retracting the whip
@@ -3978,7 +3977,7 @@ D. All these choices are correct
 
 
 G0A04 (D)
-What does time averaging mean in reference to RF radiation exposure?
+What does "time averaging" mean in reference to RF radiation exposure?
 A. The average amount of power developed by the transmitter over a specific 24-hour period
 B. The average time it takes RF radiation to have any long-term effect on the body
 C. The total time of the exposure
@@ -4136,7 +4135,7 @@ G0B10 (A)
 Which of the following is a danger from lead-tin solder?
 A. Lead can contaminate food if hands are not washed carefully after handling the solder
 B. High voltages can cause lead-tin solder to disintegrate suddenly
-C. Tin in the solder can cold flow, causing shorts in the circuit
+C. Tin in the solder can "cold flow," causing shorts in the circuit
 D. RF energy can convert the lead into a poisonous gas
 ~~
 
@@ -4150,8 +4149,9 @@ D. They must be bonded together with all other grounds
 ~~
 
 
-G0B12 (C) What is the purpose of a power supply interlock?
-A. To prevent unauthorized changes to the circuit that would void the manufacturers warranty
+G0B12 (C)
+What is the purpose of a power supply interlock?
+A. To prevent unauthorized changes to the circuit that would void the manufacturer's warranty
 B. To shut down the unit if it becomes too hot
 C. To ensure that dangerous voltages are removed if the cabinet is opened
 D. To shut off the power supply if too much voltage is produced
@@ -4178,37 +4178,4 @@ D. All these choices are correct
 
 ~~~end of question pool text~~~
 
-NOTE: One graphic is required for certain questions in section G7A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+NOTE: One graphic is required for certain questions in section G7 and is included on the following page.

@@ -236,5 +236,16 @@ class Question:
 
 if __name__ == '__main__':
     import sys
-    afile = sys.argv[1]
+    
+    try:
+        
+        afile = sys.argv[1]
+        
+    except IndexError:
+        
+        print('USAGE:  >python license_try.py <question file name>')
+    
+        sys.exit()
+        
+    
     runExam(afile)
